@@ -16,3 +16,4 @@ Has a button to save plots to a PDF using reportlab.
 Includes exception handling and application cleanup.
 
 ![DIOCM Profile plotter](dicom line profiler screen.png) 
+![DIOCM Profile plotter](Hexatic.png)
